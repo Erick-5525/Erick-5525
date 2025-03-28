@@ -9,8 +9,7 @@
 </div>
 
 ---
-
-### 🤖 Linguagens e Tecnologias
+<h3 align="left">Linguagens e Tecnologias </h3>
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Erick-5525-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -32,6 +31,11 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/
 
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erick-5525&theme=gotham) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Erick-5525&theme=gotham&locale=pt_BR)](https://git.io/streak-stats) |
 | :-: | :-: |
+
+<h3 align="left">Minhas redes!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:erickfmarcolino04@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/**/)
   
 </div>
 
