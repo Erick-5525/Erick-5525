@@ -26,7 +26,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/
 ---
 <div align="center">
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Erick-5525&theme=gotham) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Erick-5525&theme=gotham) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Erick-5525&theme=gotham&utcOffset=8) |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Erick-5525&theme=gotham) | There was an error committing your changes: Erick-5525 has committed since you started editing | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Erick-5525&theme=gotham&utcOffset=8) |
 | :-: | :-: | :-: |
 
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erick-5525&theme=gotham) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Erick-5525&theme=gotham&locale=pt_BR)](https://git.io/streak-stats) |
