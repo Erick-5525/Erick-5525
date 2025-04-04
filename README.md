@@ -1,5 +1,4 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0https://capsule-render.vercel.app/api?type=waving&height=300&color=00FA9A"/>
-
   <samp>
     <b>
       <br>
