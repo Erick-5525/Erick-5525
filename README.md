@@ -4,7 +4,6 @@
       <br>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=&color=00FA9A&multiline=true&repeat=false&width=680&lines=Oi+eu+sou+o+Erick%2C+Estudante++de+programa%C3%A7%C3%A3o+e+tecnologia." alt="Typing SVG" /></a>
 </p>
-
       
 </div>
 
