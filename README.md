@@ -42,10 +42,10 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/
   
 </div>
 
-</details>
-
+## Views
 <div align="center">
-<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FErick-5525&s=15&c=00fa9a&bg=00000000&no=2&ff=digii&tb=Profile+Visits%3A+&ta=" alt="visits">
+  <a href="https://u8views.com/github/Erick-5525"><img src="https://u8views.com/api/v1/github/profiles/174992783/views/day-week-month-total-count.svg"></a>
+</div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FA9A&height=100&section=footer"/>
