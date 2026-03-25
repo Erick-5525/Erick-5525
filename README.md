@@ -36,7 +36,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/
 <h3 align="left">Minhas redes!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:erickfmarcolino04@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/**/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/erick-marcolino-b787b03a4/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://curriculofrontbarreiro.netlify.app/)
   
 </div>
